@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext/g2chart",
+    "name": "laravel-admin-ext-g2chart",
     "description": "description...",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
