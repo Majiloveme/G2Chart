@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext/G2chart",
+    "name": "laravel-admin-ext/g2chart",
     "description": "description...",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
@@ -7,8 +7,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "your name",
-            "email": "your email"
+            "name": "ji",
+            "email": "maji12580@163.com"
         }
     ],
     "require": {
