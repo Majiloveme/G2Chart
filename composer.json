@@ -3,7 +3,7 @@
     "description": "description...",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/laravel-admin-ext/G2chart",
+    "homepage": "https://github.com/g2/laravel-admin-ext-chart",
     "license": "MIT",
     "authors": [
         {
