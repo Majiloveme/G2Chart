@@ -4,6 +4,7 @@ laravel-admin G2Chart
 
 ##基于laravel-admin开发的图像插件
 ##安装说明
+
 第一步 安装包
 
   composer require g2/laravel-admin-ext-chart
